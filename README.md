@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Awais Ali Asad 👋</h1>
-<h3 align="center">Flutter Developer · Front-End Engineer · UI/UX Designer</h3>
+<h3 align="center">Mobile App Developer · Front-End Engineer · UI/UX Designer</h3>
 
 <p align="center">
   <a href="https://awaisaliasad.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
